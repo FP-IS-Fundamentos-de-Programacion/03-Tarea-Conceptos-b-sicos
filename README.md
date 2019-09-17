@@ -6,7 +6,7 @@
 
 ## Instrucciones
 
-1. Utilizando HTML+CSS+JS desarrolle los siguientes ejercicios.
+Utilizando HTML+CSS+JS desarrolle los siguientes ejercicios.
 
 **NOTA 1:** Cada ejercicio deberá contar con su propio archivo .html y .js pero podrán compartir el mismo estilo .css
 
